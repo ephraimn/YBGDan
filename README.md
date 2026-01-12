@@ -1,2 +1,2 @@
-# YBGDan
-This is just a sample repo for demo purposes 
+# YBGDan 
+I'm learning how to use this thing 
